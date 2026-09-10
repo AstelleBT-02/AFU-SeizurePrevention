@@ -15,7 +15,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Reference Include="lib\*.dll" Private="False" />
+		<Reference Include="..\lib_b5\*.dll" Private="False" />
 	</ItemGroup>
 
 	<PropertyGroup>
